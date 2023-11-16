@@ -1,5 +1,6 @@
 {
   "name": "qr_web",
+  "homepage": "https://rajkishorepatra.github.io/QR-Web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
